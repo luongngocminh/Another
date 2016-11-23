@@ -1,0 +1,17 @@
+/media/root/LOP-47TH4/Project/Another/Another/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/root/LOP-47TH4/Project/Another/Another/obj/Debug/Another.MainForm.resources
+/media/root/LOP-47TH4/Project/Another/Another/obj/Debug/Another.exe
+/media/root/LOP-47TH4/Project/Another/Another/obj/Debug/Another.pdb
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Facebook.dll
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/FacebookMessengerLib.dll
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Microsoft.Threading.Tasks.dll
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Microsoft.Threading.Tasks.Extensions.dll
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/WebDriver.dll
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/WebDriver.Support.dll
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/phantomjs.exe
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/phantomjs-license.txt
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Another.exe.config
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Another.pdb
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Another.exe
+/media/root/LOP-47TH4/Project/Another/Another/bin/Debug/Newtonsoft.Json.dll

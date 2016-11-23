@@ -1,0 +1,49 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Another.exe.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Another.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Another.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\obj\Debug\Another.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\obj\Debug\Another.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\obj\Debug\Another.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Facebook.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Facebook.xml
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\obj\Debug\Another.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\obj\Debug\Another.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\phantomjs.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\phantomjs-license.txt
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Documents\SharpDevelop Projects\Another\Another\bin\Debug\FacebookMessengerLib.dll
+D:\Project\Another\Another\obj\Debug\Another.csprojResolveAssemblyReference.cache
+D:\Project\Another\Another\obj\Debug\Another.MainForm.resources
+D:\Project\Another\Another\obj\Debug\Another.csproj.GenerateResource.Cache
+D:\Project\Another\Another\obj\Debug\Another.exe
+D:\Project\Another\Another\bin\Debug\phantomjs.exe
+D:\Project\Another\Another\bin\Debug\phantomjs-license.txt
+D:\Project\Another\Another\bin\Debug\Another.exe.config
+D:\Project\Another\Another\bin\Debug\Another.exe
+D:\Project\Another\Another\bin\Debug\Another.pdb
+D:\Project\Another\Another\bin\Debug\Facebook.dll
+D:\Project\Another\Another\bin\Debug\FacebookMessengerLib.dll
+D:\Project\Another\Another\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Project\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Project\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Project\Another\Another\bin\Debug\WebDriver.dll
+D:\Project\Another\Another\bin\Debug\WebDriver.Support.dll
+D:\Project\Another\Another\bin\Debug\Facebook.xml
+D:\Project\Another\Another\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Project\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Project\Another\Another\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Project\Another\Another\bin\Debug\WebDriver.xml
+D:\Project\Another\Another\bin\Debug\WebDriver.Support.xml
+D:\Project\Another\Another\obj\Debug\Another.pdb
+D:\Project\Another\Another\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Another\Another\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Another\Another\obj\Debug\Another.csproj.Another.exe.config
